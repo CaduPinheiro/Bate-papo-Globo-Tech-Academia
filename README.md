@@ -1,6 +1,6 @@
 # Bate-Papo-uol-
 
-<h3>A nostalgia faz parte do nosso cotidiano, ainda mais nos dias de hoje...3>
+<h3>A nostalgia faz parte do nosso cotidiano, ainda mais nos dias de hoje...</h3>
 
 
 <h1 align="center">  
