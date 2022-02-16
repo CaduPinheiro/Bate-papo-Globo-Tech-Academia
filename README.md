@@ -1,6 +1,6 @@
 # Bate-Papo-uol-
 
-<h3>Nostalgia é o que faz parte na maioria da vida das pessoas, ainda mais hoje em dia</h3>
+<h3>A nostalgia faz parte do nosso cotidiano, ainda mais nos dias de hoje</h3>
 
 
 <h1 align="center" width="180">  
