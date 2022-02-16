@@ -3,11 +3,14 @@
 <h1>Nostalgia é o que faz parte na maioria da vida das pessoas, ainda mais hoje em dia</h1>
 
 
-<h1 align="center">  
+<h1 align="center width="200"">  
 
 ![Desktop_-_1](https://www.infoescola.com/wp-content/uploads/2008/09/nostalgia_372288145.jpg)
 </h1>
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 *Por isso, baseado nas aulas de web, criamos um bate papo, igual aquele da UOL, que fez parte da vida de muitos brasileiros e brasileiras
 nos anos 90 e no começo dos anos 2000.
@@ -24,34 +27,18 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 <h1>O Protótipo</h1>
 
-<h2>Tela de Acesso</2>
-
-<h1 align="center">  
-
-![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301033768153118/Desktop_-_1.png?width=581&height=413)
-</h1>
-
-<h2>Escolha de Sala</2>
-
-<h1 align="center">  
-
-![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301033587785768/Desktop_-_2.png?width=581&height=413)
-</h1>
-
-<h2>Seria a Sala Esolhida</2>
-
-<h1 align="center">  
-
-![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301034095280198/Desktop_-_3.png?width=581&height=413)
-</h1>
+<img src="![Desktop_-_1](https://user-images.githubusercontent.com/81496791/154180767-bbf547db-8564-4d53-a92e-865c9f6763cb.png)
+" width="200"><img src="![Desktop_-_2](https://user-images.githubusercontent.com/81496791/154180808-114d3abf-9aa5-44ff-828e-2d5d42a50f30.png)
+" width="250"><img src="![Desktop_-_3](https://user-images.githubusercontent.com/81496791/154180848-652daa6a-d79b-44e0-ae9b-c2862f032452.png)
+" width="300">
 
 
 <h2>Resposáveis pelos projeto</h2>
 
-#Ricardo Pinheiros
-#Alexia Assumpção
-#Samanta Marry
-#Tais Jorje
-#Lucas Martins
-#Tainá Pimenta
+*Ricardo Pinheiros
+*Alexia Assumpção
+*Samanta Marry
+*Tais Jorje
+*Lucas Martins
+*Tainá Pimenta
 
