@@ -12,8 +12,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-Por isso, baseado nas aulas de web, criamos um bate papo, igual aquele da UOL, que fez parte da vida de muitos brasileiros e brasileiras
-nos anos 90 e no começo dos anos 2000.
+
+<h3>Por isso, baseado nas aulas de web, criamos um bate papo, igual aquele da UOL, que fez parte da vida de muitos brasileiros e brasileiras
+nos anos 90 e no começo dos anos 2000. </h3>
 
 
 
@@ -34,13 +35,13 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 ![Desktop_-_3](https://media.discordapp.net/attachments/941507220380717098/943301034095280198/Desktop_-_3.png?width=581&height=413)
 </h1>
 
-<h1>Veja o Protótipo funcionando</h1>
+<h3>Veja o Protótipo em Funcionamento</h3>
 
 https://bate-papo-globo-tech-academia.netlify.app/
 
 
 
-<h3> Resposávis pelo projeto: </h3>
+<h3> Resposáveis pelo projeto: </h3>
 
  * Alexia Assumpção
  * Lucas Martins
