@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-*Por isso, baseado nas aulas de web, criamos um bate papo, igual aquele da UOL, que fez parte da vida de muitos brasileiros e brasileiras
+Por isso, baseado nas aulas de web, criamos um bate papo, igual aquele da UOL, que fez parte da vida de muitos brasileiros e brasileiras
 nos anos 90 e no começo dos anos 2000.
 
 
