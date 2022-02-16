@@ -3,9 +3,9 @@
 <h1>Nostalgia é o que faz parte na maioria da vida das pessoas, ainda mais hoje em dia</h1>
 
 
-<h1 align="center width="200"">  
+<h1 align="center" width="200">  
 
-![Desktop_-_1](https://www.infoescola.com/wp-content/uploads/2008/09/nostalgia_372288145.jpg)
+![Desktop_-_1](https://www.seekpng.com/png/detail/112-1125299_90s-nostalgia.png)
 </h1>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,18 +27,19 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 <h1>O Protótipo</h1>
 
-<img src="![Desktop_-_1](https://user-images.githubusercontent.com/81496791/154180767-bbf547db-8564-4d53-a92e-865c9f6763cb.png)
+<img src="https://user-images.githubusercontent.com/81496791/154180767-bbf547db-8564-4d53-a92e-865c9f6763cb.png
 " width="200"><img src="![Desktop_-_2](https://user-images.githubusercontent.com/81496791/154180808-114d3abf-9aa5-44ff-828e-2d5d42a50f30.png)
 " width="250"><img src="![Desktop_-_3](https://user-images.githubusercontent.com/81496791/154180848-652daa6a-d79b-44e0-ae9b-c2862f032452.png)
 " width="300">
 
 
-<h2>Resposáveis pelos projeto</h2>
+<h3> Resposávis pelo projeto: </h3>
 
-*Ricardo Pinheiros
-*Alexia Assumpção
-*Samanta Marry
-*Tais Jorje
-*Lucas Martins
-*Tainá Pimenta
+ * Alexia Assumpção
+ * Lucas Martins
+ * Ricardo Pinheiros
+ * Ricardo Pinheiros
+ * Samanta Marry
+ * Tais Jorge
+ * Tainá Pimenta
 
