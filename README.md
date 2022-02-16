@@ -5,7 +5,7 @@
 
 <h1 align="center">  
 
-![Desktop_-_1](https://user-images.githubusercontent.com/81496791/154177848-8ecd42a5-13ef-407d-b6eb-4002144516de.png)
+![Desktop_-_1](https://www.infoescola.com/wp-content/uploads/2008/09/nostalgia_372288145.jpg)
 </h1>
 
 
@@ -44,3 +44,14 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 ![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301034095280198/Desktop_-_3.png?width=581&height=413)
 </h1>
+
+
+<h2>Resposáveis pelos projeto</h2>
+
+#Ricardo Pinheiros
+#Alexia Assumpção
+#Samanta Marry
+#Tais Jorje
+#Lucas Martins
+#Tainá Pimenta
+
