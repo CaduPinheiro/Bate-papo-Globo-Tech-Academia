@@ -34,6 +34,11 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 ![Desktop_-_3](https://media.discordapp.net/attachments/941507220380717098/943301034095280198/Desktop_-_3.png?width=581&height=413)
 </h1>
 
+<h1>Veja o Protótipo funcionando</h1>
+
+https://bate-papo-globo-tech-academia.netlify.app/
+
+
 
 <h3> Resposávis pelo projeto: </h3>
 
