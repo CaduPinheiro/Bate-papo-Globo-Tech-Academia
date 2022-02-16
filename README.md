@@ -1,6 +1,6 @@
 # Bate-Papo-uol-
 
-<h1>Nostalgia é o que faz parte na maioria da vida das pessoas, ainda mais hoje em dia</h1>
+<h3>Nostalgia é o que faz parte na maioria da vida das pessoas, ainda mais hoje em dia</h3>
 
 
 <h1 align="center" width="200">  
@@ -27,9 +27,9 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 <h1>O Protótipo</h1>
 
-<img src="https://user-images.githubusercontent.com/81496791/154180767-bbf547db-8564-4d53-a92e-865c9f6763cb.png
-" width="200"><img src="![Desktop_-_2](https://user-images.githubusercontent.com/81496791/154180808-114d3abf-9aa5-44ff-828e-2d5d42a50f30.png)
-" width="250"><img src="![Desktop_-_3](https://user-images.githubusercontent.com/81496791/154180848-652daa6a-d79b-44e0-ae9b-c2862f032452.png)
+<img src="![Desktop_-_1](https://user-images.githubusercontent.com/81496791/154182771-8d1514b7-4860-4f7e-8cdd-7548bc4dc116.png)
+" width="200"><img src="![Desktop_-_2](https://user-images.githubusercontent.com/81496791/154182797-e65d2135-c97b-4c44-afcf-e1850a350dde.png)
+" width="250"><img src="![Desktop_-_3](https://user-images.githubusercontent.com/81496791/154182827-708f68c3-f309-4f1a-af26-e624fa8caa8a.png)
 " width="300">
 
 
