@@ -1,9 +1,9 @@
 # Bate-Papo-uol-
 
-<h3>A nostalgia faz parte do nosso cotidiano, ainda mais nos dias de hoje</h3>
+<h3>A nostalgia faz parte do nosso cotidiano, ainda mais nos dias de hoje...3>
 
 
-<h1 align="center" width="180">  
+<h1 align="center">  
 
 ![Desktop_-_0](https://www.seekpng.com/png/detail/112-1125299_90s-nostalgia.png)
 </h1>
@@ -21,13 +21,13 @@ nos anos 90 e no começo dos anos 2000.
 
 Iniciamos o projeto com um prototipo de como era um fluxo de back-and para front-end nos anos 90 e como os sites de bate papo eram consumidos e usados.
 Despois criamos uma versão que provavelmente é utilizada nos dias de hoje.
-Nas aulas seguintes usamos o Swagger para que pudessemos criar um JSON do que seria implementado no front depois. 
+Nas aulas seguintes usamos o Swagger para que pudessemos criar um JSON do que seria implementado no front-end.
 Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguagenbs de marcação, HTML e CSS.
 
 
 <h1>O Protótipo</h1>
 
-<h1 align="center" width="180">  
+<h1 align="center">  
 
 ![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301033768153118/Desktop_-_1.png?width=581&height=413)
 ![Desktop_-_2](https://media.discordapp.net/attachments/941507220380717098/943301033587785768/Desktop_-_2.png?width=581&height=413)
