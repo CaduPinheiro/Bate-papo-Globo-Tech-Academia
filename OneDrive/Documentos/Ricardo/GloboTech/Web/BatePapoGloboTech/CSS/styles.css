@@ -1,0 +1,211 @@
+/* font importing */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --purple1: #B8AEF6;
+    --purple2: #7564DE;
+    --purple3: #E6E3F6;
+    --gray1: #858585;   
+    --gray2: #C4C4C4;
+    --gray3: #5C5C5C;
+    --yellow: #FFE99C;
+    --red: #F46969;   
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background: var(--purple1);
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.loginscreen {
+    width: 800px;
+    height: 500px;
+    border-radius: 18px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    width: 25%;
+    padding: 10px;
+}
+
+.imageuser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.imageuser img{
+    width: 25%;
+}
+
+.login {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+}
+
+.login img {
+    width: 4%;
+}
+
+.login p {
+    font-size: 20px;
+    color: var(--gray1);
+    padding: 10px;
+}
+
+.search-input {
+    border-radius: 8px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid var(--gray2);
+    padding-right: 10px;
+    color: var(--gray1);
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    background: var(--red);
+    color: white;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.buttoncontent{
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: var(--gray1);
+}
+
+footer p{
+    font-size: 16px;
+}
+
+.groupcard {
+    width: 180px;
+    height: 180px;
+    border-radius: 8px;
+    background: var(--purple3);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.group {
+    width: 800px;
+    height: 500px;
+    border-radius: 18px;
+    background: white;
+    display: flex;
+}
+
+.peoplegroup {
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
+}
+
+.peoplegroup img {
+    width:8%;
+    padding: 2px;
+}
+
+.peoplegroup p {
+    color: var(--gray1);
+    margin-left: 5px;
+}
+
+.groupinfo p1 {
+    color: var(--gray3);
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.imgtalking {
+    display: flex;
+    justify-content: center;
+}
+
+.groupscreen {
+    max-width: 600px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.grouporganize {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button a{
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease;
+}
+
+.button a:hover{ 
+    color: var(--red);
+    background: white;
+    border: 1px solid var(--red);
+    border-radius: 12px;
+}
+
+.groupinfo a{
+    text-decoration: none;
+}
