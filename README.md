@@ -5,7 +5,7 @@
 
 <h1 align="center" width="180">  
 
-![Desktop_-_1](https://www.seekpng.com/png/detail/112-1125299_90s-nostalgia.png)
+![Desktop_-_0](https://www.seekpng.com/png/detail/112-1125299_90s-nostalgia.png)
 </h1>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,7 +27,12 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 <h1>O Protótipo</h1>
 
+<h1 align="center" width="180">  
 
+![Desktop_-_1](https://media.discordapp.net/attachments/941507220380717098/943301033768153118/Desktop_-_1.png?width=581&height=413)
+![Desktop_-_2](https://media.discordapp.net/attachments/941507220380717098/943301033587785768/Desktop_-_2.png?width=581&height=413)
+![Desktop_-_3](https://media.discordapp.net/attachments/941507220380717098/943301034095280198/Desktop_-_3.png?width=581&height=413)
+</h1>
 
 
 <h3> Resposávis pelo projeto: </h3>
