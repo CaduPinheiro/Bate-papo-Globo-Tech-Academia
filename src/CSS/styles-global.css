@@ -1,0 +1,24 @@
+/* font importing */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --purple1: #B8AEF6;
+    --purple2: #7564DE;
+    --purple3: #E6E3F6;
+    --gray1: #858585;   
+    --gray2: #C4C4C4;
+    --gray3: #5C5C5C;
+    --yellow: #FFE99C;
+    --red: #F46969;   
+}
+
+html, body {
+    background: var(--purple1);
+    margin-top: 50px;
+
+}
