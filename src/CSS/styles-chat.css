@@ -16,6 +16,7 @@
     background: var(--purple3);
     border-radius: 16px;
     padding: 16px;
+    width: 500px;
 }
 
 .chat-people-screen {

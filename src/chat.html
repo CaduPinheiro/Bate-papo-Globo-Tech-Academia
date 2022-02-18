@@ -9,54 +9,16 @@
         <link rel="stylesheet" href="css/styles-chat.css" />
     </head>
 
-    <body>
+    <body onload="getMessages();">
         <section class="chat-bg">
             <div class="chat-container">
                 <div class="chat-message-screen">
-                    <p class="message">
-                        <span class="user-name">🎃 NatHtinha disse:</span> 
-                        qr tc? 😍
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">Charlie Brown disse:</span> 
-                        olaaaaar! 😎
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">😎OGatinhoh disse:</span> 
-                        add meu orkut 🔥
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">Eminhoh disse:</span> 
-                        Prometa naum chorar e naum se arrepender!
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">Igatu disse:</span> 
-                        Cuiiidah dah sua vida!!!🤫
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">💕 Vanessinhas2 disse:</span> 
-                        Meu...alguém tem u trabalho do rio nilo? 😫
-                    </p>
-
-                    <p class="message">
-                        <span class="user-name">Manuuzinhah disse:</span> 
-                        Socorroooh!!
-                    </p>
+                    <div id="messages"></div>
                 </div>
                 
                 <div class="chat-people-screen">
                     <p>Pessoas online:</p>
-                    <p> 🎃 NatHtinha</p>
-                    <p> 😎OGatinhoh</p>
-                    <p> Eminhoh</p>
-                    <p> Igatu</p>
-                    <p> Eminhoh</p>
-                    <p> 💕 Vanessinhas2</p>    
+                    <div id="onlineUsers"></div>   
                 </div>
             </div>
 
@@ -73,6 +35,6 @@
         <footer>
             <p>Desenvolvido pelo grupo 7</p>
         </footer> 
-
+        <script src="script.js"></script>
     </body>
 </html>
