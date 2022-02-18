@@ -1,0 +1,120 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "🎃 NatHtinha",
+            "firstName": "Renata",
+            "lastName": "Gatinha",
+            "email": "NatHtinha@gmail.com",
+            "userStatus": "Solteira"
+        },
+        {
+            "id": 2,
+            "username": "Charlie Brown",
+            "firstName": "Charlie",
+            "lastName": "Brown",
+            "email": "CharlieBrown@gmail.com",
+            "userStatus": "SK8 na veia!"
+        },
+        {
+            "id": 3,
+            "username": "😎OGatinhoh",
+            "firstName": "O",
+            "lastName": "Gatinho",
+            "email": "OGatinho@gmail.com",
+            "userStatus": "já é ou já era?"
+        },
+        {
+            "id": 4,
+            "username": "😎OGatinhoh",
+            "firstName": "O",
+            "lastName": "Gatinho",
+            "email": "OGatinho@gmail.com",
+            "userStatus": "já é ou já era?"
+        },
+        {
+            "id": 5,
+            "username": "Eminhoh",
+            "firstName": "",
+            "lastName": "",
+            "email": "@gmail.com",
+            "userStatus": ""
+        },
+        {
+            "id": 6,
+            "username": "Igatu",
+            "firstName": "",
+            "lastName": "",
+            "email": "@gmail.com",
+            "userStatus": ""
+        },
+        {
+            "id": 7,
+            "username": "💕 Vanessinhas2",
+            "firstName": "",
+            "lastName": "",
+            "email": "Vanessinhas2@gmail.com",
+            "userStatus": ""
+        },
+        {
+            "id": 8,
+            "username": "Manuuzinhah🔥🔥",
+            "firstName": "",
+            "lastName": "",
+            "email": "Manuuzinhah@gmail.com",
+            "userStatus": ""
+        }
+    ],
+
+    "messages": [
+        {
+            "id": 1,
+            "userId": 1,
+            "content": "qr tc? 😍",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "content": "olaaaaar! 😎",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "content": "add meu orkut 🔥",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "content": "Prometa naum chorar e naum se arrepender!",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "content": "Cuiiidah dah sua vida!!!🤫",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 6,
+            "userId": 6,
+            "content": "Meu...alguém tem u trabalho do rio nilo? 😫",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "content": " Socorroooh!!",
+            "sendDate": "28/2/2022 17:45",
+            "chatId": 1
+        }
+    ]
+}
