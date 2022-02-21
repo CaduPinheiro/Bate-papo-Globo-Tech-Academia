@@ -46,7 +46,6 @@ https://bate-papo-globo-tech-academia.netlify.app/
  * Alexia Assumpção
  * Lucas Martins
  * Ricardo Pinheiros
- * Ricardo Pinheiros
  * Samanta Marry
  * Tais Jorge
  * Tainá Pimenta
