@@ -37,8 +37,7 @@ Na parte final, criamos um protótipo do nosso bate papo, utilizando as linguage
 
 <h3>Veja o Protótipo em Funcionamento</h3>
 
-https://bate-papo-globo-tech-academia.netlify.app/
-
+https://batepapo-globo-tech.netlify.app/chat.html
 
 
 <h3> Resposáveis pelo projeto: </h3>
