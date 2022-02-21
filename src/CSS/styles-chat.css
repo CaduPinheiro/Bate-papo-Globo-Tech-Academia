@@ -17,6 +17,7 @@
     border-radius: 16px;
     padding: 16px;
     width: 500px;
+    overflow: auto;
 }
 
 .chat-people-screen {
