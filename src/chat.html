@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="css/styles-chat.css" />
     </head>
 
-    <body onload="getMessages();">
+    <body onload="init();">
         <section class="chat-bg">
             <div class="chat-container">
                 <div class="chat-message-screen">
@@ -23,12 +23,13 @@
             </div>
 
             <div class="chat-button">
-                <input 
+                <input
+                id="sendMessage"
                 type="text" 
                 class="search-input-text" 
-                placeholder= " Escreva sua mensagem"
+                placeholder=" Escreva sua mensagem"
                 />
-                <button class="button-send" type="submit">ENVIAR</button>
+                <button class="button-send" onClick="sendMessage()"" type="submit">ENVIAR</button>
             </div>
         </section>
 
