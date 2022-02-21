@@ -44,7 +44,8 @@ https://bate-papo-globo-tech-academia.netlify.app/
 <h3> Resposáveis pelo projeto: </h3>
 
  * Alexia Assumpção
- * Lucas Martins
+ * Lucas Caputo
+ * Olga Mahin
  * Ricardo Pinheiros
  * Samanta Marry
  * Tais Jorge
