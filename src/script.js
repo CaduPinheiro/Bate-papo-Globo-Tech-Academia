@@ -49,8 +49,10 @@ function getMessages() {
       const index = users.users.findIndex((user) => user.id === message.userId);
 
       const dataMessage = { ...message, ...users.users[index] };
-
-      divMessages.appendChild(createMessageElement(dataMessage));
+        
+      setInterval(() => {
+        divMessages.appendChild(createMessageElement(dataMessage));
+      }, 2000);     
 
       });
     });
